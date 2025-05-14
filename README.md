@@ -17,10 +17,10 @@ Currently a developer-in-training at École 42 Brussels, where I tackle real-wor
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- **Languages**: C, C++, Bash, SQL, Go (learning in progress)
+- **Languages**: C, C++, Bash, SQL
 - **DevOps / Infrastructure**: Docker, docker-compose, Nginx, TLS, Volumes, Linux
 - **Web & Backend**: WordPress (Dockerized), REST APIs, custom server configs
-- **Databases**: MariaDB, SQLite, SQL vs NoSQL, ACID vs BASE
+- **Databases**: MariaDB, SQLite
 - **Tools & Misc.**: Git, netcat, ImageJ macro automation, custom shell scripts
 
 ---
