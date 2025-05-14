@@ -1,16 +1,46 @@
-## Hi there 👋
+### 👋 Hi, I’m Armand
 
-<!--
-**ArmandinhoLeMonstre/ArmandinhoLeMonstre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a developer-in-training at École 42 Brussels, where I tackle real-world challenges through a project-based approach. I enjoy building robust infrastructure and diving deep into backend logic, automation, and system design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Interests
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- **Languages**: C, C++, Bash, SQL, Go (learning in progress)
+- **DevOps / Infrastructure**: Docker, docker-compose, Nginx, TLS, Volumes, Linux
+- **Web & Backend**: WordPress (Dockerized), REST APIs, custom server configs
+- **Databases**: MariaDB, SQLite, SQL vs NoSQL, ACID vs BASE
+- **Tools & Misc.**: Git, netcat, ImageJ macro automation, custom shell scripts
+
+---
+
+### 💡 What I’m Looking For
+
+I’m currently seeking **internships** or **junior developer roles** in:
+
+- **Cloud infrastructure**
+- **Backend development**
+- **Data engineering or automation projects**
+
+Thanks to 42's unique pedagogy, I bring a creative, hands-on problem-solving mindset and the ability to learn fast by doing. Whether it's debugging a tricky container setup or scripting a repeatable process, I'm all in.
+
+---
+
+### 📊 GitHub Stats
+
+![Armand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmandinhoLeMonstre&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandinhoLeMonstre&layout=compact&theme=tokyonight)
+
+---
+
