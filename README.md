@@ -52,7 +52,7 @@ I learn fast, enjoy solving problems, and I’m motivated to grow within a team.
 
 ### 📫 Contact
 
-- **Email:** Armandinho13@yahoo.com  
+- **Email:** armand.mititelu@outlook.fr  
 - **LinkedIn:** [Armand Mititelu](https://www.linkedin.com/in/armand-mititelu-244467332/)
 
 ---
