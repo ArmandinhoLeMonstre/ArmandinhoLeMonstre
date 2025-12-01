@@ -1,45 +1,61 @@
-### 👋 Hi, I’m Armand
+# 👋 Hi, I'm Armand — Junior Developer
 
-Currently a developer-in-training at École 42 Brussels, where I tackle real-world challenges through a project-based approach. I enjoy building robust infrastructure and diving deep into backend logic, automation, and system design.
+I'm a **Junior Software Developer** with strong foundations in **backend engineering, DevOps culture and systems programming**.  
+Graduate from **42 Belgium**, I love building reliable systems, understanding how things work under the hood, and deploying scalable services.
 
----
-
-### 🛠️ Tech Stack & Interests
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-- **Languages**: C, C++, Bash, SQL
-- **DevOps / Infrastructure**: Docker, docker-compose, Nginx, TLS, Volumes, Linux
-- **Web & Backend**: WordPress (Dockerized), REST APIs, custom server configs
-- **Databases**: MariaDB, SQLite
-- **Tools & Misc.**: Git, netcat, ImageJ macro automation, custom shell scripts
+I'm currently **looking for a job** where I can grow, learn from experienced engineers, and contribute to real-world products.
 
 ---
 
-### 💡 What I’m Looking For
+### 🧠 Skills & Technologies
 
-I’m currently seeking **internships** or **junior developer roles** in:
+#### 💻 Languages
+- **C / C++** (systems programming, algorithms, memory handling)
+- **PHP** (Symfony ecosystem, web backend)
+- **Typescript / Javascript** (Node.js)
+- **Python**, **Bash**, **SQL**
 
-- **Cloud infrastructure**
-- **Backend development**
-- **Data engineering or automation projects**
+#### 🛠 DevOps & Cloud
+- **Docker**, Docker Compose
+- **GitLab CI/CD pipelines**
+- Server management (**Nginx**, systemd basic administration)
+- Basic knowledge of **Linux servers**, containers, deployment workflows
 
-Thanks to 42's unique pedagogy, I bring a creative, hands-on problem-solving mindset and the ability to learn fast by doing. Whether it's debugging a tricky container setup or scripting a repeatable process, I'm all in.
+#### 🌍 Web & Backend Development
+- REST API design & consumption
+- GraphQL fundamentals
+- Authentication / sessions / security basics
+- MVC frameworks (Symfony, Express/Fastify)
+
+#### 🗄 Databases
+- PostgreSQL
+- MariaDB / MySQL
+- SQLite
+
+#### 🔧 Tools & Miscellaneous
+- Git, GitHub/GitLab workflows
+- Makefiles / build automation
+- OS/Linux environment proficiency
+- Unit testing (PHPUnit, Behat)
+- Curious, adaptable, and always learning
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 My Current Goal
 
-![Armand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmandinhoLeMonstre&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandinhoLeMonstre&layout=compact&theme=tokyonight)
+I am actively **looking for a Junior Developer / Backend / DevOps position**.  
+I learn fast, enjoy solving problems, and I’m motivated to grow within a team.
+
+📩 If you are hiring, open to discussion, or just want to chat tech → feel free to contact me!
 
 ---
+
+### 📫 Contact
+
+- **Email:** Armandinho13@yahoo.com  
+- **LinkedIn:** [Armand Mititelu](https://www.linkedin.com/in/armand-mititelu-244467332/)
+
+---
+
+> _"Be curious, break things, understand them, build something better."_
 
