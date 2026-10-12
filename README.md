@@ -68,4 +68,4 @@ Two ways in, and only two: **tech** or **business**.
 - Running an agency and tired of missing calls? Let's talk.
 - Building voice agents and want to compare scars? Let's talk.
 
-📩 **armand.mititelu@outlook.fr** · [LinkedIn](https://www.linkedin.com/in/armand-mititelu-244467332/)
+📩 **armand@vestalai.be** · [LinkedIn](https://www.linkedin.com/in/armand-mititelu-244467332/)
