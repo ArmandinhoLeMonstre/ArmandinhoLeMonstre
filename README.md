@@ -7,12 +7,16 @@
   <img src="./assets/divider-vestal-light.svg" width="100%" alt="Vestal" />
 </picture>
 
+<img src="./assets/amelia.svg" align="right" width="300" alt="Amelia, Vestal's voice assistant" />
+
 **Co-founder of [Vestal](https://vestalai.be).** Real estate agencies deserve the best Agent-as-a-Service money can buy. We build it.
 
-It answers every call, in French, Dutch and English, day and night, straight into their CRM.
+Meet **Amelia**, our voice assistant. She answers every call, in French, Dutch and English, day and night, straight into their CRM.
 Every missed call is a missed mandate. **We don't miss calls.**
 
-Running a real estate agency in Belgium? Try calling one of ours. If it misses, coffee's on me.
+*A vestal kept the fire burning. Amelia keeps the line open.*
+
+Running a real estate agency in Belgium? Try calling one of ours. If Amelia misses, coffee's on me.
 📩 **armand@vestalai.be** · [LinkedIn](https://www.linkedin.com/in/armand-mititelu-244467332/)
 
 <picture>
